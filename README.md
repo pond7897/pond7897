@@ -16,4 +16,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
+<hr>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-262-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
+
+Some of my epic coding stats here that i was doing this week 
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+<details>
+    <summary><b>GitHub</b> Activity</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</details>
 
