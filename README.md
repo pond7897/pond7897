@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 ## Stats
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=pond7897&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-262-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=pond7897&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-262-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
@@ -31,7 +31,7 @@ No Activity tracked this Week
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pond7897&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pond7897&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pond7897&theme=tokyonight">
 </details>
 
