@@ -32,7 +32,7 @@ No Activity tracked this Week
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pond7897&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pond7897&theme=tokyonight&hide=batchfile">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pond7897&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pond7897&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pond7897&theme=tokyonight">
 </details>
 
