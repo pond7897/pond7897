@@ -8,6 +8,11 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/421249349469732874?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,java,js,html,mysql,nodejs,php,vscode,bots" />
+  </a>
+</p>
 <hr/>
 <p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pond7897&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pond7897&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
