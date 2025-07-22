@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi there! I am <strong>Pond</strong>. a Full Stack Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hi there! I am <strong>Pond</strong>, a Full Stack Developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
 <br>
