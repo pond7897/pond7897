@@ -18,7 +18,7 @@
     Github Stats
 </h2>
 <p align="center">
-   <img height="200px" src="https://git-stat-nine.vercel.app/api?username=pond7897&show_icons=true&count_private=true&bg_color=white" />
+   <img height="200px" src="https://github-readme-stats-theta-olive-40.vercel.app/api?username=pond7897&show_icons=true&count_private=true&bg_color=white" />
 </p>
 
 
