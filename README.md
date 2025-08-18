@@ -10,10 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
 ### 🎨 Frontend
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -28,9 +24,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 </div>
 
-</td>
-<td width="33%" valign="top">
-
 ### ⚙️ Backend
 <div align="center">
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -42,9 +35,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 </div>
 
-</td>
-<td width="33%" valign="top">
-
 ### 🗄️ Database & Cloud
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
@@ -52,10 +42,6 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
 </div>
-
-</td>
-</tr>
-</table>
 
 ### 🚀 DevOps & Tools
 <div align="center">
